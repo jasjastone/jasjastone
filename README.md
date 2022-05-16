@@ -1,4 +1,4 @@
-[jas de melz]:https://facebook.com/jas-de-melz
+[jas de melz]:https://www.facebook.com/jasja.stone.7
 [jasjastone]:https://instagram.com/jasjastone/
 - 👋 Hi, I’m @jasjastone
 - 👀 I’m interested in game development, web development and mobile application development
