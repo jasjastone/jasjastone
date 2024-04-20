@@ -2,7 +2,7 @@
 [jasjastone]:https://instagram.com/jasjastone/
 [jasja_stone]:https://twitter.com/jasja_stone/
 - 👋 Hi, I’m @jasjastone
-- 👀 I’m interested in game development, web development and mobile application development
+- 👀 I’m interested in applications(Android,iOS,Windows and Linux) development, game development and web development
 - 🌱 I’m currently am working with Godot for game development and AI testing environment.
 - 💞️ I’m looking to collaborate on projects that involves public works like public packages on javascript,php,dart,and python or using frame works like vue,laravel,react for building ui, flutter application and packages
 - 📫 How to reach me? You can follow me on instagram facebook and twitter usernames are [jasjastone][],[jas de melz][] , [jasja_stone][] respectively 
