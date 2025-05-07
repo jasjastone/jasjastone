@@ -8,8 +8,6 @@
 - 🦾 Am Experts on Flutter Frame Work 😀, but i love touching other parts of the backend or out side the flutter ecosystem.
 - 📫 How to reach me? You can follow me on instagram facebook and twitter usernames are [jasjastone][],[jas de melz][] , [jasjastone][] respectively 
 
-- Hits why not [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjasjastone&count_bg=%232E15FF&title_bg=%23555555&icon=exercism.svg&icon_color=%23FCDF00&title=views%2Fvisitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 - ![Jasjastone's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasjastone&show_icons=true&theme=radical)
 <!---
 jasjastone/jasjastone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
