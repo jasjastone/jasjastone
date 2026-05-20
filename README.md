@@ -2,7 +2,7 @@
 [jasjastone]:https://reddit.com/u/jasjastone/
 [jasja_stone]:https://twitter.com/jasjastone/
 [@jasjastone]:https://www.linkedin.com/in/jasjastone/
-- 👋 Hi, I’m @jasjastone
+- 👋 Hi, I’m [@jasjastone][]
 - 👀 I’m interested in making applications(Android,iOS,Windows and Linux) development, game development and web development
 - 🌱 I’m currently am working with Godot for game development and AI testing environment,.
 - 💞️ I’m looking to collaborate on projects that involves public works like public packages on dart,python, php, JavaScript or using frame works like vue,react for building web applications and flutter application and packages
